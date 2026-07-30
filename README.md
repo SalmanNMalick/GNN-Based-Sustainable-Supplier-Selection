@@ -61,7 +61,7 @@ The **net-zero criterion** is a first-class citizen: the decision layer supports
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/gnn-supplier-selection.git
+git clone https://github.com/<SalmanNMalick>/gnn-supplier-selection.git
 cd gnn-supplier-selection
 pip install -r requirements.txt
 ```
@@ -154,7 +154,7 @@ If you use this framework in academic work:
   author  = {Malik, Salman Nawaz},
   title   = {GNN-Based Multi-Criteria Supplier Selection with Net-Zero Alignment},
   year    = {2026},
-  url     = {https://github.com/<your-username>/gnn-supplier-selection}
+  url     = {https://github.com/<SalmanNMalick>/gnn-supplier-selection}
 }
 ```
 
